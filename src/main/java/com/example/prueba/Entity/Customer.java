@@ -22,9 +22,9 @@ import lombok.Data;
     private String contactTitle;
     private String address;
     private String city;
-    private String region;
-    private Integer postalCode;
-    private String country;
+    private String region; //
+    private Integer postalCode;//
+    private String country;//
     private String phone;
     private String fax;
 }

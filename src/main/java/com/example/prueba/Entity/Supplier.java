@@ -27,6 +27,5 @@ public class Supplier {
     private String country;
     private String phone;
     private String fax;
-    private String homePage;
 
 }
